@@ -1,6 +1,6 @@
 # cpp-to-python-example
 
-## Pre-steps
+## Steps
 
 1. Write the C++ code in `app.cpp`, with the bindings at the bottom
 2. Run `git clone https://github.com/pybind/pybind11.git`
